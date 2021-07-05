@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-#### Profile Statistics 📊
+### Profile Statistics 📊
 ![](https://komarev.com/ghpvc/?username=rishitc&color=1F6357&style=flat)
 
 <!--
