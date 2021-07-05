@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### Profile Statistics 📊
+![](https://komarev.com/ghpvc/?username=rishitc&color=1F6357&style=flat)
+
 <!--
 **rishitc/rishitc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
