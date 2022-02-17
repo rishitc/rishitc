@@ -1,7 +1,10 @@
 # Hi there 👋
 
-### Profile Statistics 📊
+## Profile Statistics 📊
 ![](https://komarev.com/ghpvc/?username=rishitc&color=1F6357&style=flat&label=Curious+visitors++)
+
+## Skills
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
 <!--
 **rishitc/rishitc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
